@@ -3,6 +3,8 @@
 
 Create a responsive layout based on the design provided. Assets required for the layout are available in the assets folder. 
 
+Submit your preview links to our telegram group - [Web2feel community](https://t.me/web2feel_com)
+
 ## Style Guide
 
 ### Layout
